@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>lin.js</title>
-  <icon>https://ljs-2002.github.io/main/icon.png</icon>
+  <icon>http://example.com/icon.png</icon>
   <subtitle>嘉嘉的学习笔记</subtitle>
-  <link href="https://ljs-2002.github.io/main/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://ljs-2002.github.io/main/"/>
+  <link href="http://example.com/"/>
   <updated>2022-05-19T02:21:26.289Z</updated>
-  <id>https://ljs-2002.github.io/main/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>嘉嘉</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>制作C callgraph producer 的总结</title>
-    <link href="https://ljs-2002.github.io/main/2022/05/18/%E5%88%B6%E4%BD%9CC-callgraph-producer-%E7%9A%84%E6%80%BB%E7%BB%93/"/>
-    <id>https://ljs-2002.github.io/main/2022/05/18/%E5%88%B6%E4%BD%9CC-callgraph-producer-%E7%9A%84%E6%80%BB%E7%BB%93/</id>
+    <link href="http://example.com/2022/05/18/%E5%88%B6%E4%BD%9CC-callgraph-producer-%E7%9A%84%E6%80%BB%E7%BB%93/"/>
+    <id>http://example.com/2022/05/18/%E5%88%B6%E4%BD%9CC-callgraph-producer-%E7%9A%84%E6%80%BB%E7%BB%93/</id>
     <published>2022-05-18T07:05:47.194Z</published>
     <updated>2022-05-19T02:21:26.289Z</updated>
     
@@ -28,19 +28,19 @@
     
     
     
-    <category term="Shell" scheme="https://ljs-2002.github.io/main/categories/Shell/"/>
+    <category term="Shell" scheme="http://example.com/categories/Shell/"/>
     
     
-    <category term="shell" scheme="https://ljs-2002.github.io/main/tags/shell/"/>
+    <category term="shell" scheme="http://example.com/tags/shell/"/>
     
-    <category term="自学" scheme="https://ljs-2002.github.io/main/tags/%E8%87%AA%E5%AD%A6/"/>
+    <category term="自学" scheme="http://example.com/tags/%E8%87%AA%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>卷首语</title>
-    <link href="https://ljs-2002.github.io/main/2022/05/17/%E5%8D%B7%E9%A6%96%E8%AF%AD/"/>
-    <id>https://ljs-2002.github.io/main/2022/05/17/%E5%8D%B7%E9%A6%96%E8%AF%AD/</id>
+    <link href="http://example.com/2022/05/17/%E5%8D%B7%E9%A6%96%E8%AF%AD/"/>
+    <id>http://example.com/2022/05/17/%E5%8D%B7%E9%A6%96%E8%AF%AD/</id>
     <published>2022-05-17T07:52:00.000Z</published>
     <updated>2022-05-17T17:13:06.248Z</updated>
     
@@ -58,10 +58,10 @@
     
     
     
-    <category term="首页" scheme="https://ljs-2002.github.io/main/categories/%E9%A6%96%E9%A1%B5/"/>
+    <category term="首页" scheme="http://example.com/categories/%E9%A6%96%E9%A1%B5/"/>
     
     
-    <category term="首页" scheme="https://ljs-2002.github.io/main/tags/%E9%A6%96%E9%A1%B5/"/>
+    <category term="首页" scheme="http://example.com/tags/%E9%A6%96%E9%A1%B5/"/>
     
   </entry>
   

@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>卷首语</title>
+    <url>/2022/05/17/%E5%8D%B7%E9%A6%96%E8%AF%AD/</url>
+    <content><![CDATA[<p>欢迎来到嘉嘉的学习笔记，我将在这里记录平时学习过程中的所思所学所得。</p>
+<p>希望我的见闻和感悟能给你带来一些启发。</p>
+<p><strong>让我们一起共同进步。</strong></p>
+]]></content>
+      <categories>
+        <category>首页</category>
+      </categories>
+      <tags>
+        <tag>首页</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>制作C callgraph producer 的总结</title>
-    <url>/main/2022/05/18/%E5%88%B6%E4%BD%9CC-callgraph-producer-%E7%9A%84%E6%80%BB%E7%BB%93/</url>
+    <url>/2022/05/18/%E5%88%B6%E4%BD%9CC-callgraph-producer-%E7%9A%84%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>  C callgraph producer 本质上是对已有的工具进行集成，我所做的工作仅仅只是将自动生成 C 语言函数调用图的过程中需要使用的多条指令集成为一条命令行指令，并将所需要的各软件和脚本的安装和注册为系统指令的过程用脚本实现。</p>
 <span id="more"></span>
 <p>目前项目已经开源到 <em>GitHub</em> 上：<a href="https://github.com/ljs-2002/C-call-graph-producer.git">C callgraph producer</a></p>
@@ -37,20 +51,6 @@
       <tags>
         <tag>shell</tag>
         <tag>自学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>卷首语</title>
-    <url>/main/2022/05/17/%E5%8D%B7%E9%A6%96%E8%AF%AD/</url>
-    <content><![CDATA[<p>欢迎来到嘉嘉的学习笔记，我将在这里记录平时学习过程中的所思所学所得。</p>
-<p>希望我的见闻和感悟能给你带来一些启发。</p>
-<p><strong>让我们一起共同进步。</strong></p>
-]]></content>
-      <categories>
-        <category>首页</category>
-      </categories>
-      <tags>
-        <tag>首页</tag>
       </tags>
   </entry>
 </search>
